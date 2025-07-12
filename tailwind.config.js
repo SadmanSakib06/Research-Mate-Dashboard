@@ -43,6 +43,13 @@ export default {
           900: '#7c2d12',
           950: '#431407',
         },
+        primary: '#f97316', // Orange
+        secondary: '#0891b2', // Teal
+        dark: {
+          800: '#1f2937',
+          900: '#111827',
+          950: '#030712',
+        }
       },
       fontFamily: {
         sans: [

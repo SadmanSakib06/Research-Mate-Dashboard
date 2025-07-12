@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MessageSquare, Users, Search, Plus, ThumbsUp, MessageCircle, Calendar, Eye, Star } from 'lucide-react';
+import { MessageSquare, Users, Search, Plus, ThumbsUp, MessageCircle, Calendar, Eye, Star, CheckCircle } from 'lucide-react';
 
 const DiscussionForum = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
